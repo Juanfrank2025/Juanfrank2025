@@ -4,6 +4,11 @@
 **Juanfrank2025/Juanfrank2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+1	Saludo o título de presentación	Una línea de bienvenida con tu nombre. Puede usar un emoji para hacerlo más amigable.
+2	Sobre mí	2 a 4 oraciones que describan quién eres, qué estás estudiando y qué te apasiona de la tecnología o el desarrollo.
+3	Tecnologías y herramientas	Lista o badges de tecnologías aprendidas en el bootcamp.
+4	Proyectos destacados	Al menos un proyecto con nombre, breve descripción y enlace.
+5	Contacto	LinkedIn, correo electrónico o ambos.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
