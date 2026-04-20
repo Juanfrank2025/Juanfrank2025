@@ -1,21 +1,47 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Francisco
 
-<!--
-**Juanfrank2025/Juanfrank2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy estudiante de primer año de bachillerato en desarrollo de software en el Instituto Nacional de Osicala. Me apasiona la tecnología, la automatización de procesos y el desarrollo de soluciones que faciliten el trabajo diario. Disfruto aprender nuevas herramientas y aplicar mis conocimientos en proyectos prácticos que generen impacto real en mi comunidad educativa.
 
-Here are some ideas to get you started:
-1	Saludo o título de presentación	Una línea de bienvenida con tu nombre. Puede usar un emoji para hacerlo más amigable.
-2	Sobre mí	2 a 4 oraciones que describan quién eres, qué estás estudiando y qué te apasiona de la tecnología o el desarrollo.
-3	Tecnologías y herramientas	Lista o badges de tecnologías aprendidas en el bootcamp.
-4	Proyectos destacados	Al menos un proyecto con nombre, breve descripción y enlace.
-5	Contacto	LinkedIn, correo electrónico o ambos.
+## 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks y Librerías
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Herramientas y Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+## 🚀 Proyectos Destacados
+
+### Sistema de Asistencia INO
+> Sistema automatizado para el control de asistencia del Instituto Nacional de Osicala. Desarrollado con n8n y Google Sheets, permite registrar asistencia diaria, generar reportes por sección/especialidad y enviar notificaciones por correo electrónico con estadísticas de alumnos presentes, ausentes con permiso y ausentes sin permiso.
+
+**Tecnologías:** n8n, Google Sheets, HTML, JavaScript  
+**Repositorio:** [https://github.com/Juanfrank2025/sistema-asistencia](https://github.com/Juanfrank2025/sistema-asistencia)
+
+---
+
+### SRS Biblioteca Escolar
+> Documento de Especificación de Requisitos de Software para un sistema de gestión bibliotecaria escolar. Incluye requisitos funcionales, no funcionales, casos de uso y modelado del sistema.
+
+**Tecnologías:** Documentación técnica, análisis de requisitos, UML  
+**Repositorio:** [https://github.com/Juanfrank2025](https://github.com/Juanfrank2025)
+
+## 📫 Contacto
+
+¿Te interesa colaborar o tienes alguna pregunta? ¡Hablemos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanfrank2025)
