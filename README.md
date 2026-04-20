@@ -40,7 +40,8 @@ Soy estudiante de primer año de bachillerato en desarrollo de software en el In
 
 ## 📫 Contacto
 
-Telefono: 79292453
+Telefono: 79292453 
+<br>
 correo. juan.frank202@hotail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
