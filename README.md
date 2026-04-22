@@ -15,7 +15,7 @@ Soy un apasionado por la tecnología y la optimización de procesos. Me especial
 - 🔭 Actualmente enfocado en **Automatización Inteligente y flujos de trabajo en n8n**.
 - 🌱 Profundizando mis conocimientos en **JavaScript, manipulación de Arrays y consumo de APIs**.
 - 💡 Me encanta resolver problemas complejos y transformar datos crudos en información útil.
-- 📫 Puedes contactarme en: **[tu-correo@ejemplo.com]**
+- 📫 Puedes contactarme en: **[juan.hernandez.publicos769@clases.edu.sv]**
 
 ---
 
@@ -64,7 +64,8 @@ Diseño y ejecución de un flujo profesional para la gestión automática de reg
 ---
 
 ## 🌐 Conectemos
-
+- Tel: 7929 2453
+- Email: juan.frank2025@hotmail.com
 <div align="center">
   <a href="https://linkedin.com/in/TU-USUARIO-AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
