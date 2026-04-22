@@ -1,5 +1,7 @@
 <div align="center">
-  <h1> Prof Juan Francisco </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=70&animation=fadeIn&fontAlignY=38" />
+
+  <h1>¡Hola! Soy Juan Francisco 👋</h1>
   <h3>Desarrollador y Especialista en Automatizaciones e Integraciones</h3>
   <img src="https://komarev.com/ghpvc/?username=Juanfrank2025&label=Vistas+del+perfil&color=0e75b6&style=flat" alt="Profile views" />
 </div>
@@ -62,10 +64,9 @@ Diseño y ejecución de un flujo profesional para la gestión automática de reg
 ---
 
 ## 🌐 Conectemos
-- Tel: 7929 2453
-- Email: juan.hernandez.publicos769@clases.edu.sv
+
 <div align="center">
-  <a href="https://www.kimi.com/">
+  <a href="https://linkedin.com/in/TU-USUARIO-AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
