@@ -65,7 +65,7 @@ Diseño y ejecución de un flujo profesional para la gestión automática de reg
 - Tel: 7929 2453
 - Email: juan.hernandez.publicos769@clases.edu.sv
 <div align="center">
-  <a href="https://linkedin.com/in/TU-USUARIO-AQUI" target="_blank">
+  <a href="https://www.kimi.com/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
