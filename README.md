@@ -62,7 +62,8 @@ Diseño y ejecución de un flujo profesional para la gestión automática de reg
 ---
 
 ## 🌐 Conectemos
-
+- Tel: 7929 2453
+- Email: juan.hernandez.publicos769@clases.edu.sv
 <div align="center">
   <a href="https://linkedin.com/in/TU-USUARIO-AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
