@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
-  <h1>¡Hola! Soy Juan Francisco 👋</h1>
+  <h1>¡Juan Francisco 👋</h1>
   <h3>Desarrollador y Especialista en Automatizaciones e Integraciones</h3>
   <img src="https://komarev.com/ghpvc/?username=Juanfrank2025&label=Vistas+del+perfil&color=0e75b6&style=flat" alt="Profile views" />
 </div>
