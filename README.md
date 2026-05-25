@@ -7,6 +7,7 @@
 </div>
 
 <br/>
+<img src="https://res.cloudinary.com/dtnxhq85y/image/upload/q_auto/f_auto/v1779736963/WhatsApp_Image_2026-05-20_at_9.35.20_AM_bbdd7f.jpg">
 
 ## 👨‍💻 Sobre Mí
 
